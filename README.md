@@ -1,2 +1,2 @@
 # Licence-Plate-Detection
-Licence Plate Detection using InceptionResnetV2 pre-trained model on TensorFlow Keras framework.
+Licence Plate Detection using VGG16 pre-trained model on TensorFlow Keras framework.
